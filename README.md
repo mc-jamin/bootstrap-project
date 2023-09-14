@@ -7,7 +7,7 @@
   <img width="244" alt="content-page" lazy-loading="true" src="https://github.com/mc-jamin/bootstrap-project/assets/13468589/8b8943c4-2223-4b74-b8b9-99a29a34ca65">
   <div>
     <p>
-      This is a boostrap project build from the Grayscale template.
+      This is a boostrap project built from the Grayscale template.
     </p>
     <p>
       https://mc-jamin.github.io/csb-3gsl4y/
