@@ -1,9 +1,6 @@
 <!--Doctype html-->
 <html>
-  <head>
-    <title>
-      # bootstrap-project
-    </title>    
+  <head>  
   </head>
   <body>  
    <h1># bootstrap-project</h1> 
