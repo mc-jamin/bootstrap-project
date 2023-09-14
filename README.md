@@ -10,7 +10,7 @@
       This is a boostrap project build from the Grayscale template.
     </p>
     <p>
-      <input type = "button" value = "Follow to Link" href = "https://mc-jamin.github.io/csb-3gsl4y/">
+      https://mc-jamin.github.io/csb-3gsl4y/
     </p>
   </div>
   
