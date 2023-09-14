@@ -1,0 +1,24 @@
+{
+  "name": "jim-html-1",
+  "version": "1.0.0",
+  "description": "just for test",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mc-jamin/fedev.git"
+  },
+  "keywords": [],
+  "author": "Jamin",
+  "about": {
+    "name":"Grayscale",
+    "licence":"MIT License",
+    "descripition":"This website is developed from the Grayscale bootsrap template and modified subject to the MIT license"
+  },
+  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
