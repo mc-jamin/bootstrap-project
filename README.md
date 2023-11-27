@@ -15,10 +15,7 @@
       <p>
       This is a boostrap project built from the Grayscale template.
       </p>
-      <p>
-        
-      </p>
-    </div>   
+      <p>   
   </div> 
   </body>
 </html>
